@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="poi-3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/commons-codec-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/curvesapi-1.03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/poi-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/poi-examples-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/poi-excelant-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/poi-ooxml-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/poi-scratchpad-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libs/poi-3.14/xmlbeans-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
