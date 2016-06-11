@@ -1,6 +1,7 @@
 package cn.edu.zucc.client;
 
 import cn.edu.zucc.excel.ReadExcel;
+import cn.edu.zucc.excel.WriteExcel;
 import cn.edu.zucc.model.Student;
 
 import java.io.IOException;
@@ -29,5 +30,8 @@ public class Client {
                 System.out.println("No: " + student.getNo() + ", name : " + student.getName());
             }
         }
+        WriteExcel writeExcel = new WriteExcel();
+        Student student = new Student();
+        writeExcel.createExcel(student.getStudents());
     }
 }
